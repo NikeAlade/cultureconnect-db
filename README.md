@@ -6,7 +6,7 @@ SQL database design and exploratory data analysis for CultureConnect, a communit
 
 | File | Description |
 |------|-------------|
-| `schema.sql` | Full database schema — tables, relationships, triggers, and seed data |
+| `schema.sql` | Full database schema - tables, relationships, triggers, and seed data |
 | `queries.sql` | Analytical SQL queries covering joins, aggregations, subqueries, and window functions |
 | `analysis.ipynb` | Python notebook with data visualisations and business insights |
 
@@ -14,31 +14,31 @@ SQL database design and exploratory data analysis for CultureConnect, a communit
 
 The database covers 13 tables across the platform:
 
-- **Users & Roles** — Residents, SMEs, Council Members, Admins
-- **Areas** — 6 Hertfordshire zones with location data
-- **Listings** — Cultural services and products listed by SME businesses
-- **Categories** — Visual Arts, Music, Performing Arts, Creative Media, and more
-- **Bookings & Orders** — Service bookings and product purchases by residents
-- **Reviews** — Customer ratings and feedback on listings
-- **Polls & Votes** — Community engagement and decision making
+- **Users & Roles** - Residents, SMEs, Council Members, Admins
+- **Areas** - 6 Hertfordshire zones with location data
+- **Listings** - Cultural services and products listed by SME businesses
+- **Categories** - Visual Arts, Music, Performing Arts, Creative Media, and more
+- **Bookings & Orders** - Service bookings and product purchases by residents
+- **Reviews** - Customer ratings and feedback on listings
+- **Polls & Votes** - Community engagement and decision making
 
 ## SQL Query Topics
 
-- Basic SELECT and filtering
-- Multi-table JOINs
-- Aggregations with GROUP BY and HAVING
-- Subqueries
-- Business insight queries for revenue, bookings and area activity
+1. Basic SELECT and filtering
+2. Multi-table JOINs
+3. Aggregations with GROUP BY and HAVING
+4. Subqueries
+5. Business insight queries for revenue, bookings and area activity
 
 ## Analysis Highlights
 
-- User distribution by role and area
-- Most booked and highest rated categories
-- Monthly revenue and booking trends
-- SME approval rates
-- Customer satisfaction breakdown
+1. User distribution by role and area
+2. Most booked and highest rated categories
+3. Monthly revenue and booking trends
+4. SME approval rates
+5. Customer satisfaction breakdown
 
 ## Tech Stack
 
-- MySQL / MariaDB
-- Python, pandas, matplotlib, seaborn
+1. MySQL 
+2. Python (pandas)
