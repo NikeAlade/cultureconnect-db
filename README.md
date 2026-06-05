@@ -2,14 +2,6 @@
 
 SQL database design and exploratory data analysis for CultureConnect, a community platform connecting residents, local businesses, and council members across Hertfordshire.
 
-## What's in this repo
-
-| File | Description |
-|------|-------------|
-| `schema.sql` | Full database schema - tables, relationships, triggers, and seed data |
-| `queries.sql` | Analytical SQL queries covering joins, aggregations, subqueries, and window functions |
-| `analysis.ipynb` | Python notebook with data visualisations and business insights |
-
 ## Database Overview
 
 The database covers 13 tables across the platform:
