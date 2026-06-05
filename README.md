@@ -1,4 +1,4 @@
-# CultureConnect — Database & Data Analysis
+# CultureConnect Database & Analysis
 
 SQL database design and exploratory data analysis for CultureConnect, a community platform connecting residents, local businesses, and council members across Hertfordshire.
 
