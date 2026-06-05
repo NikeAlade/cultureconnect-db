@@ -28,8 +28,7 @@ The database covers 13 tables across the platform:
 - Multi-table JOINs
 - Aggregations with GROUP BY and HAVING
 - Subqueries
-- Window functions — RANK(), ROW_NUMBER(), running totals
-- Business insight queries — revenue trends, top listings, area activity
+- Business insight queries for revenue, bookings and area activity
 
 ## Analysis Highlights
 
