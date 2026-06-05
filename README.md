@@ -38,15 +38,7 @@ The database covers 13 tables across the platform:
 - SME approval rates
 - Customer satisfaction breakdown
 
-## How to Run the Notebook
-
-Open `analysis.ipynb` in **Google Colab** or **Jupyter Notebook** and run all cells. No external data files needed — sample data is generated inside the notebook.
-
 ## Tech Stack
 
 - MySQL / MariaDB
 - Python, pandas, matplotlib, seaborn
-
-## Author
-
-Oyenike Alade
